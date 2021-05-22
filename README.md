@@ -3,8 +3,8 @@
 ### A nagios plugin to check for PS5 stock across major retailers
 
 Requirements:
-* [Firefox](https://github.com/mozilla/geckodriver/releases)
-* geckodriver
+* Firefox
+* [geckodriver](https://github.com/mozilla/geckodriver/releases)
 * xvfb
 * python3-selenium
 * python3-requests
